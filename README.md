@@ -1,3 +1,6 @@
+![Prisoner's Dilemma](https://blogsmedia.lse.ac.uk/blogs.dir/99/files/2019/01/the-prisoners-dilemma.png)
+
+
 # Decoding Dilemmas
 
 Welcome to Decoding Dilemmas! This project is all about understanding a cool game called the Iterated Prisoner's Dilemma (IPD). It's like a game where two friends have to decide whether to work together or be selfish.
