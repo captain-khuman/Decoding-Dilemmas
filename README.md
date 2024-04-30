@@ -21,6 +21,6 @@ To run the code and explore the IPD game dynamics:
 
 Feel free to experiment with different parameter settings, AI strategies, and environmental conditions to gain deeper insights into the strategic interactions within the IPD game.
 
-Happy decoding dilemmas!
+> Happy decoding dilemmas!
 
-[![Download](https://img.shields.io/badge/Download-Code-green?style=for-the-badge&logo=github)](https://github.com/captain-khuman/Decoding-Dilemmas/archive/refs/heads/main.zip)
+> [![Download](https://img.shields.io/badge/Download-Code-green?style=for-the-badge&logo=github)](https://github.com/captain-khuman/Decoding-Dilemmas/archive/refs/heads/main.zip)
