@@ -1,26 +1,26 @@
 # Decoding Dilemmas
 
-Welcome to Decoding Dilemmas! This project explores the fascinating world of game theory through the lens of the Iterated Prisoner's Dilemma (IPD) game. In this classic game, two players must decide whether to cooperate or defect, each aiming to maximize their own payoff while facing the risk of mutual defection.
+Welcome to Decoding Dilemmas! This project is all about understanding a cool game called the Iterated Prisoner's Dilemma (IPD). It's like a game where two friends have to decide whether to work together or be selfish.
 
-## Game Rules
-The IPD game unfolds over multiple rounds, with each player choosing to cooperate or defect in each round. The payoffs depend on both players' choices:
-- If both players cooperate, they each receive a moderate payoff.
-- If one player defects while the other cooperates, the defector receives a higher payoff while the cooperator receives a lower payoff.
-- If both players defect, they both receive the lowest payoff.
+## Understanding the Game
+In the IPD game, players play many rounds. They can either choose to work together (cooperate) or be selfish (defect). Depending on what both players choose, they get different points:
+- If both cooperate, they both get some points.
+- If one cooperates and the other defects, the defector gets more points, and the cooperator gets fewer.
+- If both defect, they both get the fewest points.
 
-## RL Q-Learning Approach
-To tackle the strategic complexities of the IPD game, we employ Reinforcement Learning (RL) techniques, specifically Q-learning. Through RL, our AI agents learn to make optimal decisions by maximizing cumulative rewards over multiple iterations of the game. The Q-learning algorithm enables the agents to adapt and refine their strategies based on past experiences and environmental feedback.
+## Our Approach: RL Q-Learning
+To help understand how to play this game better, we're using a smart computer method called Reinforcement Learning (RL) with a technique called Q-learning. The computer learns the best strategies by trying different things and seeing what works best over time.
 
-## Instructions
-To run the code and explore the IPD game dynamics:
-1. Clone this repository to your local machine.
-2. Ensure you have Python installed.
-3. Navigate to the directory containing the `gametheorymain.py` file.
-4. Run the script using the command `python gametheorymain.py`.
-5. Follow the on-screen prompts to interact with the IPD simulation and observe the AI agents' behavior.
+## How to Get Started
+To see how the game works and watch the smart computer players:
+1. Download this project to your computer.
+2. Make sure you have Python installed.
+3. Open the folder with the 'gametheorymain.py' file in it.
+4. Run the file by typing 'python gametheorymain.py' in your terminal.
+5. Follow the instructions on the screen to play the game and see how the computer players do.
 
-Feel free to experiment with different parameter settings, AI strategies, and environmental conditions to gain deeper insights into the strategic interactions within the IPD game.
+Feel free to try different things and see how the game changes!
 
-> Happy decoding dilemmas!
+> Ready to try it out? Click the button below to download the code and get started!
 
-> [![Download](https://img.shields.io/badge/Download-Code-green?style=for-the-badge&logo=github)](https://github.com/captain-khuman/Decoding-Dilemmas/archive/refs/heads/main.zip)
+[![Download](https://img.shields.io/badge/Download-Code-green?style=for-the-badge&logo=github)](https://github.com/captain-khuman/Decoding-Dilemmas/archive/refs/heads/main.zip)
